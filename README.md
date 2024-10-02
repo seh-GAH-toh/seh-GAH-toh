@@ -7,6 +7,5 @@
 
 ---
 
-- 🛠️ Unreal 5
+- 🛠️ Godot, UNity, Unreal 5
 - 🔑 GPG key: [`0A3CE5F867A350D6`](https://github.com/seh-GAH-toh.gpg)
-- ❤️ Sponsor me via [Stripe](https://donate.stripe.com/9AQbMl1Pt5DV4i4288)
