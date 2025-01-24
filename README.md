@@ -8,4 +8,4 @@
 ---
 
 - 🛠️ Godot, UNity, Unreal 5
-- 🔑 GPG key: [`0A3CE5F867A350D6`](https://github.com/seh-GAH-toh.gpg)
+- 🔑 GPG key: [`28053A9B133253FF`](https://github.com/seh-GAH-toh.gpg)
